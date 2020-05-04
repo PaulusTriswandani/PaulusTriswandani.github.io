@@ -1,6 +1,7 @@
 name: Paulus Triswandani
 title: PTblog
 SEOTitle: Blog oleh Paulus Triswandani
+url: "https://PaulusTriswandani.github.io"
 
 markdown: kramdown
 highlighter: rouge
