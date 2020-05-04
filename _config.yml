@@ -1,1 +1,8 @@
-theme: jekyll-theme-architect
+name: Paulus Triswandani
+title: PTblog
+SEOTitle: Blog oleh Paulus Triswandani
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+    input: GFM
