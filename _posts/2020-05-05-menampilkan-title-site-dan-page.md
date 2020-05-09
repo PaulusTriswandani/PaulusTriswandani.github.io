@@ -31,5 +31,6 @@ title: Post
 layout: default
 ---
 ```
-Maka akan bisa dilihat perbedaannya di bagian title bar.
+Maka akan bisa dilihat perbedaannya di bagian title bar. Bila masuk ke http://localhost:4000/ dan http://localhost:4000/jekyll/2020/05/06/postingan-pertama.html
+
 SELESAI
