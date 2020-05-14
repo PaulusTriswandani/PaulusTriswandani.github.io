@@ -42,6 +42,9 @@
         </section>
 
         <aside id="sidebar">
+          {% for category in site.categories %}
+            <a href="{{ site.baseurl }}/categories.html#{{ category[0] }}" class="button">{{ category[0] }}</a>
+          {% endfor %}
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
