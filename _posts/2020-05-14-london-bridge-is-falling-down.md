@@ -3,6 +3,7 @@ title: Lagu London Bridge is Falling Down
 layout: default
 author: Paulus Triswandani
 categories: [lagu,cryptography]
+comments: true
 ---
 
 ```
