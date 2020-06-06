@@ -3,6 +3,7 @@ title: Cryptography Caesar
 layout: default
 author: Paulus Triswandani
 categories: [cryptography]
+comments: true
 ---
 
 Sekarang saya ingin membahas [kriptografi caesar](https://id.wikipedia.org/wiki/Sandi_Caesar).

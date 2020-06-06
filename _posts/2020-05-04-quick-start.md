@@ -3,6 +3,7 @@ title: Jekyll From Scratch - Quick Start
 layout: default
 author: Paulus Triswandani
 categories: [jekyll]
+comments: true
 ---
 
 Install dependency ruby, rubygems, gcc, g++, dan make. Cara instalasi bergantung dari sistem operasi yg dimiliki pengguna. Silakan [klik di sini](https://jekyllrb.com/docs/installation/) untuk link terkait. Sistem operasi yg saya miliki adalah linux ubuntu, maka cara2 berikut ini adalah cara menginstall-nya di linux ubuntu.

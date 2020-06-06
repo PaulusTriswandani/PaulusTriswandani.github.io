@@ -3,6 +3,7 @@ title: Teh untuk Kesehatan
 layout: default
 author: Paulus Triswandani
 categories: [life]
+comments: true
 ---
 
 Ngomong2 saya jualan teh. Teh ternyata mengandung kafein yg digunakan untuk doping supaya mata gak cepat merem karena kelamaan koding. Tapi kebanyakan orang meminum kopi untuk kafeinnya.

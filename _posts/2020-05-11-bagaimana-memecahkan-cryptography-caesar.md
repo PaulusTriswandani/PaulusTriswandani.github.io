@@ -3,6 +3,7 @@ title: Bagaimana Memecahkan Cryptography Caesar?
 layout: default
 author: Paulus Triswandani
 categories: [cryptography]
+comments: true
 ---
 
 Setelah kita membahas bagaimana mengamankan pesan kita pada blog cryptography caesar, sekarang kita akan membahas bagaimana memecahkannya. Kalau kita mengamankan pesan kita dengan rot13, maka cara memecahkannya mudah saja. Kita tingggal menggunakan fungsi yg sama pada pesan terenkripsi kita. Sebelumnya kita sudah membahas program caesar dan rot13 yg di-install di sistem operasi linux ubuntu. Sebagai contoh kita bisa memecahkan pesan rot13 dengan mudah menggunakan program ini.

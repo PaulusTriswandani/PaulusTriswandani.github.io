@@ -3,6 +3,7 @@ title: Youtuber Cewek Ttg Teknologi
 layout: default
 author: Paulus Triswandani
 categories: [life]
+comments: true
 ---
 Sekian lama menjadi konsumen youtube, saya cuma menemukan tiga youtuber cewek yg membahas ttg teknologi. Kebanyakan youtuber yg membahas teknologi adalah cowok.
 

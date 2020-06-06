@@ -3,6 +3,7 @@ title: Programming terlalu Membosankan
 layout: default
 author: Paulus Triswandani
 categories: [life]
+comments: true
 ---
 
 Saya suka sekali melihat video youtube kalo kuota lagi melimpah, tapi kalo lagi seret sih paling blog ajah. Kayak yg saya bikin ini. Di antara sekian banyak youtuber, saya suka mengikuti [channel youtube TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)

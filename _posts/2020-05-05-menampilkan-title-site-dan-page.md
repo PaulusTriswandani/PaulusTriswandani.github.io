@@ -3,6 +3,7 @@ title: Jekyll From Scratch - Cara menampilkan site.title dan page.title
 layout: default
 author: Paulus Triswandani
 categories: [jekyll]
+comments: true
 ---
 
 Buat file \_config.yml yg isinya :

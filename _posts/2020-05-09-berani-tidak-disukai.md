@@ -3,6 +3,7 @@ title: Berani Tidak Disukai
 layout: default
 author: Paulus Triswandani
 categories: [life]
+comments: true
 ---
 
 Saya mau memperkenalkan satu buku untuk kalian yaitu berani tidak disukai. ![berani](/assets/images/BeraniTidakDisukai.jpg).

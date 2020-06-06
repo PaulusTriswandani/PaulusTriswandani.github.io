@@ -3,6 +3,7 @@ title: Ketuhanan Agama Buddha
 layout: default
 author: Paulus Triswandani
 categories: [life]
+comments: true
 ---
 
 Apakah agama Buddha mempercayai Tuhan? Mengapa di negara komunis seperti Cina, agama Buddha tumbuh subur? Apakah itu hanya berlatar belakang kebudayaan? Saya akan berusaha menjelaskannya dengan kata-kata saya sendiri seperti apa konsep ketuhanan di agama Buddha Nichiren dan semoga pemirsa menyikapinya dengan bijak. Ini adalah salah satu konsep ketuhanan yg ada, boleh dipercaya, boleh tidak. Tapi jangan dipakai sebagai alasan untuk mencari masalah dan permusuhan dengan pihak lain. Boleh berbeda2 tetapi satu jua.
