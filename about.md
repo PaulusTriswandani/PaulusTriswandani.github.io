@@ -13,6 +13,7 @@ Sekelumit tentang saya bisa dilihat di [presentasi](http://bit.ly/3b8ItzE) berik
 Berhubung tokopedia udah di-hack, jadi gak usah sembunyiin indentitas lagi. Udah kesebar di luar sana.
 * twitter : [https://twitter.com/devishtank](https://twitter.com/devishtank)
 * whatsapp : Reverse Engineer ajah dari link ovo nya, sekalian belajar hacking dikit2, ada apk nya : qr code reader?
+* [pd dikti di kemdikbud](https://pddikti.kemdikbud.go.id/data_mahasiswa/Rjk1OENCMTktMUYwNC00QTk2LUI4OUQtQ0UzQTNCMkI3RUU4)
 
 Kalau butuh bantuan dalam hal apa saja, syukur2 bener2 bisa ngebantu silahkan hubungi saya. Coba ajah link ovo nya, nanti saya hubungi. Saya gini2 sehari2 ngabisin waktu internetan dan cari tau ttg bahasa pemrograman di internet, tapi belum semua sih. Karena makin dibaca makin pusing, apalagi kalau mengenai algoritma, tapi gapapa jg sih nanya algoritma jg. Berikut adalah bahasa pemrograman yg pernah saya gunakan :
 * ANSI C
