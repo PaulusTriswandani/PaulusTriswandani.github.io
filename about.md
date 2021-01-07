@@ -9,6 +9,7 @@ Saya adalah seorang NEET (Not in Employment, Education, or Training) yg berusaha
 Sekelumit tentang saya bisa dilihat di [presentasi](http://bit.ly/3b8ItzE) berikut. Maaf yah pake bahasa Inggris, males alih bahasa ke bahasa Indonesia. Berikut adalah alamat2 media sosial saya, jangan di-hack yah :
 * facebook : [https://www.facebook.com/paulus.jualan](https://www.facebook.com/paulus.jualan)
 * github : [https://github.com/paulustriswandani](https://github.com/paulustriswandani)
+* gopay : ![gopay](/assets/images/gopay.jpg)
 * ovo : ![ovo](/assets/images/ovo.png)
 Berhubung tokopedia udah di-hack, jadi gak usah sembunyiin indentitas lagi. Udah kesebar di luar sana.
 * twitter : [https://twitter.com/devishtank](https://twitter.com/devishtank)
