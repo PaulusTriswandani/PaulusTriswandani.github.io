@@ -7,6 +7,7 @@
 	<title>Under Construction</title>
 
     <link rel="stylesheet" href="lib/normalize.css">
+	<link href="lib/jquery-ui-1.12.1/jquery-ui.css" rel="stylesheet">
 
     <!-- Loopy G fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,7 +18,33 @@
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body>
+	<script src="lib/jquery-ui-1.12.1/external/jquery/jquery.js"></script>
+	<script src="lib/jquery-ui-1.12.1/jquery-ui.js"></script>
+
 	<h1>Terdampak Covid-19</h1>
 	<h2>Website ini dalam perbaikan</h2>
+
+	<div id="progressbar"><div class="progress-label"></div></div>
+	<button>Make Progress</button>
+	<script>
+		var progressbar = $( "#progressbar" ),
+		progressLabel = $( ".progress-label" );
+
+		progressbar.progressbar({
+			value: false
+		});
+
+		var button = $( "button" ).button().on( "click", function() {
+			var value = progressbar.progressbar( "value" );
+			value += 1;
+			progressbar.progressbar( "value", value );
+	      	progressLabel.text( progressbar.progressbar( "value" ) + "%" );
+			if ( value === 100 ) {
+				button.button( "disable" );
+				progressLabel.text("Completed!")
+			}
+		});
+	</script>
+
 </body>
 </html>
