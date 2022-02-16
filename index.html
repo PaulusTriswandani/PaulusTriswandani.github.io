@@ -6,7 +6,7 @@
 	<!-- normalize.css -->
 	<title>Under Construction</title>
 
-    <link rel="stylesheet" href="lib/normalize.css">
+    <!--link rel="stylesheet" href="lib/normalize.css"-->
 	<link href="lib/jquery-ui-1.12.1/jquery-ui.css" rel="stylesheet">
 
     <!-- Loopy G fonts -->
@@ -36,14 +36,12 @@
 
 		var button = $( "button" ).button().on( "click", function(event) {
 			var value = progressbar.progressbar( "value" );
-
 			for (;value<100;value++){
 				setInterval(function(){
 					progressbar.progressbar( "value", value );
-		      		progressLabel.text( progressbar.progressbar( "value" ) + "%" );
-				},100);
+			      	progressLabel.text( progressbar.progressbar( "value" ) + "%" );
+				},100)
 			}
-
 			if ( value === 100 ) {
 				button.button( "disable" );
 				progressLabel.text("Completed!")
