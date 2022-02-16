@@ -34,7 +34,7 @@
 			value: false
 		});
 
-		var button = $( "button" ).button().on( "click", function() {
+		var button = $( "button" ).button().on( "click", function(event) {
 			var value = progressbar.progressbar( "value" );
 			value += 1;
 			progressbar.progressbar( "value", value );
@@ -42,6 +42,9 @@
 			if ( value === 100 ) {
 				button.button( "disable" );
 				progressLabel.text("Completed!")
+
+				event.preventDefault();
+		        window.open('home.html');
 			}
 		});
 	</script>
