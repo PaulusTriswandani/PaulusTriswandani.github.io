@@ -14,8 +14,10 @@ h2 {
    	text-shadow: 1px 1px 0 #fff;
 }
 
-ul { overflow: hidden; }
-li { float: left; }
+@media (orientation: landscape){
+	div.home { float: left; padding-left: 4px; }
+}
+
 @media (orientation: portrait) {
-	li { float: none; }
+	div.home { float: none; }
 }
