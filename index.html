@@ -36,9 +36,14 @@
 
 		var button = $( "button" ).button().on( "click", function(event) {
 			var value = progressbar.progressbar( "value" );
-			value += 1;
-			progressbar.progressbar( "value", value );
-	      	progressLabel.text( progressbar.progressbar( "value" ) + "%" );
+
+			for (;value<100;value++){
+				setInterval(function(){
+					progressbar.progressbar( "value", value );
+		      		progressLabel.text( progressbar.progressbar( "value" ) + "%" );
+				},100);
+			}
+
 			if ( value === 100 ) {
 				button.button( "disable" );
 				progressLabel.text("Completed!")
