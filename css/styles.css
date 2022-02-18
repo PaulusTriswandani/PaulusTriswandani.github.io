@@ -14,8 +14,14 @@ h2 {
    	text-shadow: 1px 1px 0 #fff;
 }
 
+div.home { 
+	border: 1px solid black;
+	padding-left: 4px; 
+	padding-right: 4px;
+}
+
 @media (orientation: landscape){
-	div.home { float: left; padding-left: 4px; }
+	div.home { float: left; }
 }
 
 @media (orientation: portrait) {
