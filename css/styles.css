@@ -20,8 +20,6 @@ body.home div {
 
 div.home { 
 	border: 1px solid black;
-	padding-left: 10px; 
-	padding-right: 10px;
 	border-radius: 20px 20px 20px 20px;
 	box-shadow: 2px 2px;
 }
@@ -31,5 +29,5 @@ div.home {
 }
 
 @media (orientation: portrait) {
-	div.home { float: none; margin-left: 50%; margin-right: 50%; }
+	div.home { float: none; }
 }
